@@ -34,7 +34,7 @@ This project designs, simulates, and implements a three-stage audio amplifier us
 ### LTSpice
 - `Design_Project_Working_ImpedanceBridging.asc` – Final working amplifier simulation
 - `2N3904.cir` – Transistor model used for realistic simulation
-- `initial_calculated_design.asc` – Initial design before impedance bridging (to be added)
+- `initial_calculated_design.asc` – Initial design before impedance bridging
 
 ### Documentation
 - Progress reports detailing analysis, simulation, and experimentation
